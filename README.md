@@ -21,7 +21,7 @@ This application is written in C and requires a C compiler to build from source.
 ```bash
 bfb41e06-6007-414f-aa0f-b04838803f25
 
-git clone https://yourrepositorylink.com/finance-tracker.git
+git clone https://github.com/MohitGoyal09/Mini-project.git
 cd finance-tracker
 
 ```
